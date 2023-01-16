@@ -30,10 +30,11 @@
 <a href="https://nodejs.org/en/about/" title="Node.js" target="_blank"><img src="https://img.icons8.com/fluency/48/null/node-js.png" width="50" height="50"/></a>
 <a href="https://reactjs.org/" title="React.js" target="_blank"><img src="https://img.icons8.com/plasticine/48/null/react.png" width="50" height="50"/></a>
 <a href="https://en.wikipedia.org/wiki/SQL" title="SQL" target="_blank"><img src="https://img.icons8.com/external-dygo-kerismaker/48/null/external-SQL-networking-dygo-kerismaker.png" width="40" height="40"/></a>
-<a href="https://www.microsoft.com/en-ca/sql-server/sql-server-downloads" target="_blank"><img src="https://img.icons8.com/color/48/null/microsoft-sql-server.png" width="50" height="50"/></a>
-<a href="https://www.mysql.com/" target="_blank"><img src="https://img.icons8.com/color/48/null/mysql-logo.png" width="50" height="50"/></a>
+<a href="https://www.microsoft.com/en-ca/sql-server/sql-server-downloads" title="Java" target="_blank"><img src="https://img.icons8.com/color/48/null/microsoft-sql-server.png" width="50" height="50"/></a>
+<a href="https://www.mysql.com/" title="Java" target="_blank"><img src="https://img.icons8.com/color/48/null/mysql-logo.png" width="50" height="50"/></a>
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" title="C#" target="_blank"><img src="https://img.icons8.com/color/48/null/c-sharp-logo.png" width="50" height="50"/></a>
 <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"><img src="https://img.icons8.com/color/48/null/c-programming.png" width="50" height="50"/></a>
+<a href="https://dotnet.microsoft.com/en-us/download/dotnet-framework" target="_blank"><img src="https://img.icons8.com/color/48/null/net-framework.png" width="50" height="50"/></a>
 <a href="https://developer.android.com/studio" target="_blank"><img src="https://img.icons8.com/fluency/48/null/android-studio--v3.png" width="50" height="50"/></a>
 <a href="https://www.python.org/" title="Python" target="_blank"><img src="https://img.icons8.com/color/48/null/python--v1.png" width="50" height="50"/></a>
 <a href="https://html.com/" title="HTML" target="_blank"><img src="https://img.icons8.com/color-glass/48/null/html-filetype.png" width="50" height="50"/></a>
