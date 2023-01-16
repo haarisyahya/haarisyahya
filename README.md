@@ -21,7 +21,8 @@
 
 <p align="center">
 
-## 📱 Socials
+##Frameworks and Technologies
+	
 
  <div align="center"  class="icons-social" style="margin-left: 10px;">
         <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/haaris-yahya-398ba9195/">
