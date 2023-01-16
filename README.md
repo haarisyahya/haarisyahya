@@ -24,7 +24,7 @@
 
 ## ⚒️ Frameworks and Languages
 
-<a href="https://www.python.org/" title="Python"><img src="https://img.icons8.com/color/48/null/python--v1.png"/ width="50" height="50"/></a>
+<a href="https://www.python.org/" title="Python"><img src="https://img.icons8.com/color/48/null/python--v1.png" width="50" height="50"/></a>
 <a href="https://www.java.com/en/" title="Java"><img src="logos/java.png" width="50" height="50"/></a>
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" title="C#"><img src="logos/csharp.png" width="50" height="50"/></a>
 <a href="https://html.com/" title="HTML"><img src="logos/html.png" width="50" height="50"/></a>
