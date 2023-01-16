@@ -8,12 +8,7 @@
 
 <p align="left"> <img src="https://camo.githubusercontent.com/d8a8453730652a50c56161272a40808cba323b4aea4f402654577c9394172f05/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d6962686173686d69267374796c653d666f722d7468652d626164676526636f6c6f723d627269676874677265656e" alt="haarisyahya"/> </p>
 
-<p align="center">
-	
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=haarisyahya&theme=gotham&show_icons=true&count_private=true&hide_title=true&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haarisyahya&layout=default&theme=gotham&hide=html&hide_border=true&card_width=330) 
 
-</p>
  ## 👋 About Me
 
 
@@ -64,6 +59,12 @@
 <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank"><img src="https://img.icons8.com/color/48/null/microsoft-excel-2019--v1.png" width="50" height="50"/></a>
 <a href="https://outlook.live.com/mail/0/" target="_blank"><img src="https://img.icons8.com/color/48/null/microsoft-outlook-2019--v2.png" width="50" height="50"/></a>
 
+<p align="center">
+	
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=haarisyahya&theme=gotham&show_icons=true&count_private=true&hide_title=true&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haarisyahya&layout=default&theme=gotham&hide=html&hide_border=true&card_width=330) 
+
+</p>
 
 <br />
 
