@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **Reactjs & React-Native**
 
-- 📫 How to reach me **haarisyahya@gmail.com**
+- 📫 You can reach me at **haarisyahya@gmail.com**
 
 - 📄 Know about my experiences <a href="https://github.com/haarisyahya/haarisyahya/blob/main/Haaris%20Yahya%20-%20resume1.pdf" target="blank">Resume</a>
 <br/>
