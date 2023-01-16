@@ -32,9 +32,10 @@
 <a href="https://en.wikipedia.org/wiki/JavaScript" title="JavaScript"><img src="https://img.icons8.com/color/48/null/javascript--v1.png" width="40" height="40"/></a>
 <a href="https://en.wikipedia.org/wiki/SQL" title="SQL"><img src="https://img.icons8.com/external-dygo-kerismaker/48/null/external-SQL-networking-dygo-kerismaker.png" width="40" height="40"/></a>
 <a href="https://git-scm.com/" title="Git"><img src="https://img.icons8.com/color/48/null/git.png" width="50" height="50"/></a>
-<a href="https://nodejs.org/en/about/" title="Node.js"><img src="logos/unity.png" width="50" height="50"/></a>
-<a href="https://azure.microsoft.com/en-us/services/devops/" title="Azure DevOps"><img src="logos/devops.png" width="65" height="65"/></a>
-<a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
+<a href="https://nodejs.org/en/about/" title="Node.js"><img src="https://img.icons8.com/fluency/48/null/node-js.png" width="50" height="50"/></a>
+<a href="https://reactjs.org/" title="React.js"><img src="https://img.icons8.com/plasticine/48/null/react.png" width="50" height="50"/></a>
+<a href="https://www.microsoft.com/en-ca/sql-server/sql-server-downloads"><img src="https://img.icons8.com/color/48/null/microsoft-sql-server.png" width="50" height="50"/></a>
+<a href="https://www.mysql.com/" target="_blank"> <img src=https://img.icons8.com/color/48/null/mysql-logo.png" width="50" height="50"/> </a>
 
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
