@@ -69,7 +69,7 @@
  <div align="center"  class="icons-social" style="margin-left: 10px;">
         <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/haaris-yahya-398ba9195/">
 			<img src="https://img.icons8.com/color/48/null/linkedin-circled--v1.png"></a>
-        <a style="margin-left: 10px;" target="_blank" href="https://github.com/100rabhcsmc">
+        <a style="margin-left: 10px;" target="_blank" href="https://github.com/haarisyahya">
 		<img src="https://img.icons8.com/ios-filled/48/null/github.png"></a>
 	<a style="margin-left: 5px;" target="_blank" href="https://github.com/haarisyahya/haarisyahya/blob/main/Haaris%20Yahya%20-%20resume1.pdf">
 					<img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/null/external-resume-resume-flaticons-lineal-color-flat-icons.png"></a>
