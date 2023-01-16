@@ -76,7 +76,7 @@
 	 <a style="margin-left: 5px;" target="_blank" href="mailto:haarisyahya@gmail.com?subject = Feedback&body = Message"">
 					<img src="https://img.icons8.com/color/48/null/gmail.png"></a>
 	
-      </div>
+   
 
 </p>
 
