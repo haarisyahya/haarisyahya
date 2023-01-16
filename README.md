@@ -34,6 +34,7 @@
 <a href="https://www.mysql.com/" target="_blank"><img src="https://img.icons8.com/color/48/null/mysql-logo.png" width="50" height="50"/></a>
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" title="C#" target="_blank"><img src="https://img.icons8.com/color/48/null/c-sharp-logo.png" width="50" height="50"/></a>
 <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"><img src="https://img.icons8.com/color/48/null/c-programming.png" width="50" height="50"/></a>
+<a href="https://developer.android.com/studio" target="_blank"><img src="https://img.icons8.com/fluency/48/null/android-studio--v3.png" width="50" height="50"/></a>
 <a href="https://www.python.org/" title="Python" target="_blank"><img src="https://img.icons8.com/color/48/null/python--v1.png" width="50" height="50"/></a>
 <a href="https://html.com/" title="HTML" target="_blank"><img src="https://img.icons8.com/color-glass/48/null/html-filetype.png" width="50" height="50"/></a>
 <a href="https://en.wikipedia.org/wiki/CSS" title="CSS" target="_blank"><img src="https://img.icons8.com/fluency/48/null/css3.png" width="40" height="50"/></a>
@@ -42,7 +43,6 @@
 <a href="https://code.visualstudio.com/" target="_blank"><img src="https://img.icons8.com/color/48/null/visual-studio-code-2019.png" width="50" height="50"/></a>
 <a href="https://www.jetbrains.com/idea/" target="_blank"><img src="https://img.icons8.com/color/48/null/intellij-idea.png" width="50" height="50"/></a>
 <a href="https://getbootstrap.com/" target="_blank"><img src="https://img.icons8.com/color/48/null/bootstrap.png" width="50" height="50"/></a>
-<a href="https://developer.android.com/studio" target="_blank"><img src="https://img.icons8.com/fluency/48/null/android-studio--v3.png" width="50" height="50"/></a>
 <a href="https://www.latex-project.org/" target="_blank"><img src="https://img.icons8.com/color/48/null/latex.png" width="50" height="50"/></a>
 <a href="https://en.wikipedia.org/wiki/Assembly_language" target="_blank"><img src="https://img.icons8.com/external-dygo-kerismaker/48/null/external-Assembly-manufaturing-dygo-kerismaker.png" width="50" height="50"/></a>
 <a href="https://azure.microsoft.com/en-us/products/devops" target="_blank"><img src="https://img.icons8.com/fluency/48/null/azure-1.png" width="50" height="50"/></a>
