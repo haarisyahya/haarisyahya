@@ -43,6 +43,8 @@
 <a href="https://getbootstrap.com/" target="_blank"><img src="https://img.icons8.com/color/48/null/bootstrap.png" width="50" height="50"/></a>
 <a href="https://developer.android.com/studio" target="_blank"><img src="https://img.icons8.com/fluency/48/null/android-studio--v3.png" width="50" height="50"/></a>
 <a href="https://www.latex-project.org/" target="_blank"><img src="https://img.icons8.com/color/48/null/latex.png" width="50" height="50"/></a>
+<a href="https://en.wikipedia.org/wiki/Assembly_language" target="_blank"><img src="https://img.icons8.com/external-dygo-kerismaker/48/null/external-Assembly-manufaturing-dygo-kerismaker.png" width="50" height="50"/></a>
+
 
 ## 🤝 Connect with me
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
