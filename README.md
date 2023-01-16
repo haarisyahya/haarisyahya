@@ -21,7 +21,7 @@
 
 - 📄 Know about my <a href="https://github.com/haarisyahya/haarisyahya/blob/main/Haaris%20Yahya%20-%20resume1.pdf" target="_blank">experiences (resume)</a>
 
-![GitHub stats](https://github-stats-alpha.vercel.app/api?username={haarisyahya})
+![GitHub stats](https://github-stats-alpha.vercel.app/api?username={haarisyahya}&cc=000&tc=fff&ic=fff&bc=000)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aleksey-Voko&layout=default&theme=gotham&hide=html&hide_border=true&card_width=330)
 
 <br/>
