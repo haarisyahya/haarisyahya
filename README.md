@@ -19,10 +19,11 @@
 <br/>
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
+## ⚒️ Frameworks and Languages
+
+
 <p align="center">
 
-##Frameworks and Technologies
-	
 
  <div align="center"  class="icons-social" style="margin-left: 10px;">
         <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/haaris-yahya-398ba9195/">
