@@ -40,10 +40,12 @@
 <a href="https://git-scm.com/" title="Git" target="_blank"><img src="https://img.icons8.com/color/48/null/git.png" width="50" height="50"/></a>
 <a href="https://visualstudio.microsoft.com/" target="_blank"><img src="https://img.icons8.com/color/48/null/visual-studio--v1.png" width="50" height="50"/></a>
 <a href="https://code.visualstudio.com/" target="_blank"><img src="https://img.icons8.com/color/48/null/visual-studio-code-2019.png" width="50" height="50"/></a>
+<a href="https://www.jetbrains.com/idea/" target="_blank"><img src="https://img.icons8.com/color/48/null/intellij-idea.png" width="50" height="50"/></a>
 <a href="https://getbootstrap.com/" target="_blank"><img src="https://img.icons8.com/color/48/null/bootstrap.png" width="50" height="50"/></a>
 <a href="https://developer.android.com/studio" target="_blank"><img src="https://img.icons8.com/fluency/48/null/android-studio--v3.png" width="50" height="50"/></a>
 <a href="https://www.latex-project.org/" target="_blank"><img src="https://img.icons8.com/color/48/null/latex.png" width="50" height="50"/></a>
 <a href="https://en.wikipedia.org/wiki/Assembly_language" target="_blank"><img src="https://img.icons8.com/external-dygo-kerismaker/48/null/external-Assembly-manufaturing-dygo-kerismaker.png" width="50" height="50"/></a>
+
 
 
 ## 🤝 Connect with me
