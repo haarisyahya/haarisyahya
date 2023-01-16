@@ -1,6 +1,6 @@
 <h2 align="center">
 
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&size=50&duration=4000&color=2FC800FF&width=700&height=70&lines=Hi!+I'm+Ibrahim+Hashmi+%3A\))](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&size=50&duration=4000&color=2FC800FF&width=700&height=70&lines=Hi!+I'm+Haaris+Yahya+%3A\))](https://git.io/typing-svg)
   
  </h2> 
 <h3 align="center">A passionate software developer from Toronto</h3>
