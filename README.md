@@ -17,9 +17,11 @@
 
 - 📄 Know about my <a href="https://github.com/haarisyahya/haarisyahya/blob/main/Haaris%20Yahya%20-%20resume1.pdf" target="blank">experiences (Resume)</a>
 <br/>
-<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
 ## ⚒️ Frameworks and Languages
+
+<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
+
 
 
 <p align="center">
