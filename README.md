@@ -27,11 +27,11 @@
 <a href="https://www.python.org/" title="Python"><img src="https://img.icons8.com/color/48/null/python--v1.png" width="50" height="50"/></a>
 <a href="https://www.java.com/en/" title="Java"><img src="https://img.icons8.com/color/48/null/java-coffee-cup-logo--v1.png" width="50" height="50"/></a>
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" title="C#"><img src="https://img.icons8.com/color/48/null/c-sharp-logo.png" width="50" height="50"/></a>
-<a href="https://html.com/" title="HTML"><img src="https://img.icons8.com/office/16/null/html-filetype.png" width="50" height="50"/></a>
-<a href="https://en.wikipedia.org/wiki/CSS" title="CSS"><img src="logos/css.png" width="40" height="50"/></a>
-<a href="https://en.wikipedia.org/wiki/JavaScript" title="JavaScript"><img src="logos/javascript.png" width="40" height="40"/></a>
-<a href="https://en.wikipedia.org/wiki/SQL" title="SQL"><img src="logos/sql.png" width="40" height="40"/></a>
-<a href="https://git-scm.com/" title="Git"><img src="logos/git.png" width="50" height="50"/></a>
+<a href="https://html.com/" title="HTML"><img src="https://img.icons8.com/color-glass/48/null/html-filetype.png" width="50" height="50"/></a>
+<a href="https://en.wikipedia.org/wiki/CSS" title="CSS"><img src="https://img.icons8.com/fluency/48/null/css3.png" width="40" height="50"/></a>
+<a href="https://en.wikipedia.org/wiki/JavaScript" title="JavaScript"><img src="https://img.icons8.com/color/48/null/javascript--v1.png" width="40" height="40"/></a>
+<a href="https://en.wikipedia.org/wiki/SQL" title="SQL"><img src="https://img.icons8.com/external-dygo-kerismaker/48/null/external-SQL-networking-dygo-kerismaker.png" width="40" height="40"/></a>
+<a href="https://git-scm.com/" title="Git"><img src="https://img.icons8.com/color/48/null/git.png" width="50" height="50"/></a>
 <a href="https://nodejs.org/en/about/" title="Node.js"><img src="logos/unity.png" width="50" height="50"/></a>
 <a href="https://azure.microsoft.com/en-us/services/devops/" title="Azure DevOps"><img src="logos/devops.png" width="65" height="65"/></a>
 <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
