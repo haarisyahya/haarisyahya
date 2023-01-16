@@ -51,7 +51,7 @@
 <a href="https://www.microsoft.com/en-ca/microsoft-365/project/project-management-software" target="_blank"><img src="https://img.icons8.com/fluency/48/null/microsoft-project-2019.png" width="50" height="50"/></a>
 <a href="https://www.microsoft.com/en-us/microsoft-365/word?activetab=tabs%3afaqheaderregion3" target="_blank"><img src="https://img.icons8.com/color/48/null/microsoft-word-2019--v2.png" width="50" height="50"/></a>
 <a href="https://www.microsoft.com/en-us/microsoft-365/powerpoint" target="_blank"><img src="https://img.icons8.com/color/48/null/microsoft-powerpoint-2019--v1.png" width="50" height="50"/></a>
-<a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank"><img src="https://img.icons8.com/color/48/null/microsoft-excel-2019--v1.png"width="50" height="50"/></a>
+<a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank"><img src="https://img.icons8.com/color/48/null/microsoft-excel-2019--v1.png" width="50" height="50"/></a>
 <a href="https://outlook.live.com/mail/0/" target="_blank"><img src="https://img.icons8.com/color/48/null/microsoft-outlook-2019--v2.png" width="50" height="50"/></a>
 
 
