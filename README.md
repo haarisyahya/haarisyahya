@@ -39,6 +39,7 @@
 <a href="https://visualstudio.microsoft.com/" target="blank"><img src="https://img.icons8.com/color/48/null/visual-studio--v1.png" width="50" height="50"/></a>
 <a href="https://code.visualstudio.com/" target="blank"><img src="https://img.icons8.com/color/48/null/visual-studio-code-2019.png" width="50" height="50"/></a>
 <a href="https://getbootstrap.com/" target="blank"><img src="https://img.icons8.com/color/48/null/bootstrap.png" width="50" height="50"/></a>
+<a href="https://developer.android.com/studio" target="blank"><img src="https://img.icons8.com/fluency/48/null/android-studio--v3.png" width="50" height="50"/></a>
 
 
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
