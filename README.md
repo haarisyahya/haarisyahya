@@ -37,6 +37,9 @@
 <a href="https://www.microsoft.com/en-ca/sql-server/sql-server-downloads" target="blank"><img src="https://img.icons8.com/color/48/null/microsoft-sql-server.png" width="50" height="50"/></a>
 <a href="https://www.mysql.com/" target="blank"><img src="https://img.icons8.com/color/48/null/mysql-logo.png" width="50" height="50"/></a>
 <a href="https://visualstudio.microsoft.com/" target="blank"><img src="https://img.icons8.com/color/48/null/visual-studio--v1.png" width="50" height="50"/></a>
+<a href="https://code.visualstudio.com/" target="blank"><img src="https://img.icons8.com/color/48/null/visual-studio-code-2019.png" width="50" height="50"/></a>
+<a href="https://getbootstrap.com/" target="blank"><img src="https://img.icons8.com/color/48/null/bootstrap.png" width="50" height="50"/></a>
+
 
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
