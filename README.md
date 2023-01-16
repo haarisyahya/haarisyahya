@@ -2,10 +2,7 @@
 Haaris</a></h1>
 <h3 align="center">A passionate software developer from Toronto</h3>
 
-<p align="left"> <img src="https://camo.githubusercontent.com/d8a8453730652a50c56161272a40808cba323b4aea4f402654577c9394172f05/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d6962686173686d69267374796c653d666f722d7468652d626164676526636f6c6f723d627269676874677265656e" alt="100rabhcsmc" /> </p>
-
-<p align="left"> <a href="https://twitter.com/100rabhcsmc" target="blank"><img src="https://img.shields.io/twitter/follow/100rabhcsmc?logo=twitter&style=for-the-badge" alt="100rabhcsmc" /></a> </p>
-
+<p align="left"> <img src="https://camo.githubusercontent.com/d8a8453730652a50c56161272a40808cba323b4aea4f402654577c9394172f05/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d6962686173686d69267374796c653d666f722d7468652d626164676526636f6c6f723d627269676874677265656e" alt="haarisyahya"/> </p>
 
 - 🔭 I’m currently looking for Software Developer roles or jobs in Technology</a>
 
