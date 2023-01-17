@@ -52,6 +52,7 @@
 <a href="https://en.wikipedia.org/wiki/Assembly_language" title="MIPS Assembly" target="_blank"><img src="https://img.icons8.com/external-dygo-kerismaker/48/null/external-Assembly-manufaturing-dygo-kerismaker.png" width="50" height="50"/></a>
 <a href="https://azure.microsoft.com/en-us/products/devops" title="Azure" target="_blank"><img src="https://img.icons8.com/fluency/48/null/azure-1.png" width="50" height="50"/></a>
 <a href="https://www.redhat.com/en/topics/api/what-is-a-rest-api" title="RESTful APIs" target="_blank"><img src="https://img.icons8.com/color/48/null/api-settings.png" width="50" height="50"/></a>
+<a href="https://www.postman.com/" title="Postman" target="_blank"><img src="https://img.icons8.com/wired/64/null/postman-api.png" width="50" height="50"/></a>
 <a href="https://www.atlassian.com/software/jira" title="Jira" target="_blank"><img src="https://img.icons8.com/color/48/null/jira.png" width="50" height="50"/></a>
 <a href="https://www.microsoft.com/en-ca/microsoft-365/project/project-management-software" title="Microsoft Project Plan" target="_blank"><img src="https://img.icons8.com/fluency/48/null/microsoft-project-2019.png" width="50" height="50"/></a>
 <a href="https://www.microsoft.com/en-us/microsoft-365/word?activetab=tabs%3afaqheaderregion3" title="Microsoft Word" target="_blank"><img src="https://img.icons8.com/color/48/null/microsoft-word-2019--v2.png" width="50" height="50"/></a>
