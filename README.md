@@ -14,7 +14,7 @@
 
 - 🔭 I’m currently looking for Software Developer roles or jobs in Technology</a>
 
-- 🧑‍💼 Software Systems and Developer Intern at the Ontario Government (May 2022 - Sept 2022)
+- 🧑‍💼 Software Systems and Developer Intern at the <a href="https://www.ontario.ca/page/ministry-attorney-general" target="_blank"> Ontario Government (resume)</a> (May 2022 - Sept 2022)
 
 - 🌱 I’m currently working on an Application for a final project
 
