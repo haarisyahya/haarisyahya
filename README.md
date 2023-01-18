@@ -6,7 +6,7 @@
 <h3 align="center">A passionate software developer from Toronto</h3>
 
 
-<p align="left"> ![Haaris's Profile Views](https://komarev.com/ghpvc/?username=haarisyahya&style=for-the-badge&color=brightgreen) </p>
+![Haaris's Profile Views](https://komarev.com/ghpvc/?username=haarisyahya&style=for-the-badge&color=brightgreen) 
 
 
  ## 👋 About Me
