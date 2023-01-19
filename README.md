@@ -66,7 +66,7 @@
 ![Top Langs](https://github-readme-stats-alpha-smoky.vercel.app/api/top-langs/?username=haarisyahya&layout=default&theme=gotham&hide=html&hide_border=true&card_width=330) 
 
 </p>
-github-readme-stats-haarisyahya.vercel.app
+
 
 
 
