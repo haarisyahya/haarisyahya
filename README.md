@@ -20,7 +20,7 @@
 
 - 📫 You can reach me at **haarisyahya@gmail.com**
 
-- 📄 Know about my <a href="https://github.com/haarisyahya/haarisyahya/blob/main/Haaris%20Yahya%20-%20resume1.pdf" target="_blank">experiences (resume)</a>
+- 📄 Know about my <a href="https://github.com/haarisyahya/haarisyahya/blob/main/Haaris%20Yahya%20-%20resume.pdf" target="_blank">experiences (resume)</a>
 
 
 
