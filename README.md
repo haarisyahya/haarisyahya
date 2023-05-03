@@ -16,7 +16,7 @@
 
 - 🧑‍💼 Software Developer Intern at the <a href="https://www.ontario.ca/page/ministry-attorney-general" target="_blank"> Ontario Government </a> (May 2022 - Sept 2022)
 
-- 🌱 I’m currently working on an Full Stack Application for the Niagara Museum 
+- 🌱 My most recent project was developing a full stack application for the Niagara-on-the-Lake Museum. 
 
 - 📫 You can reach me at **haarisyahya@gmail.com**
 
