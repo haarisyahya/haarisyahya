@@ -62,9 +62,9 @@
 
 <p align="center">
 	
-![GitHub stats](https://github-readme-stats-nbtf.vercel.app/api?username=haarisyahya&theme=gotham&show_icons=true&count_private=true&hide_title=true&hide_border=true)
-![Top Langs](https://github-readme-stats-nbtf.vercel.app/api/top-langs/?username=haarisyahya&layout=default&theme=gotham&hide=html&hide_border=true&card_width=330) 
-
+![GitHub stats](https://vercel.com/haarisyahya/haarisyahya/JBwBdktuSU6Vz1YJCRBXkSEmNC4t/api?username=haarisyahya&theme=gotham&show_icons=true&count_private=true&hide_title=true&hide_border=true)
+![Top Langs](https://vercel.com/haarisyahya/haarisyahya/JBwBdktuSU6Vz1YJCRBXkSEmNC4t/api/top-langs/?username=haarisyahya&layout=default&theme=gotham&hide=html&hide_border=true&card_width=330) 
+https://vercel.com/haarisyahya/haarisyahya/JBwBdktuSU6Vz1YJCRBXkSEmNC4t
 </p>
 
 
