@@ -61,6 +61,10 @@
 <a href="https://www.microsoft.com/en-us/microsoft-365/powerpoint" title="Microsoft Powerpoint" target="_blank"><img src="https://img.icons8.com/color/48/null/microsoft-powerpoint-2019--v1.png" width="50" height="50"/></a>
 <a href="https://www.microsoft.com/en-us/microsoft-365/excel" title="Microsoft Excel" target="_blank"><img src="https://img.icons8.com/color/48/null/microsoft-excel-2019--v1.png" width="50" height="50"/></a>
 <a href="https://outlook.live.com/mail/0/" title="Microsoft Outlook" target="_blank"><img src="https://img.icons8.com/color/48/null/microsoft-outlook-2019--v2.png" width="50" height="50"/></a>
+<a href="https://www.typescriptlang.org/" title="TypeScript" target="_blank"><img width="50" height="50" src="https://img.icons8.com/color/50/typescript.png" alt="typescript"/></a>
+<a href="https://graphql.org/" title="GraphQL" target="_blank"><img width="50" height="50" src="https://img.icons8.com/color/50/graphql.png" alt="graphql"/></a>
+
+
 
 <p align="center">
 	
