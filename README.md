@@ -20,7 +20,7 @@
 
 - 🌱 My most recent extra curricular project was developing a <a href="https://haarisy.com" target="_blank"> portfolio website </a> for myself.
 
-- 📫 You can reach me at **haarisyahya@gmail.com**
+- 📫 You can reach me at my <a href="https://www.linkedin.com/in/haaris-yahya-398ba9195/" target="_blank"> LinkedIn </a>
 
 - 📄 Know about my <a href="https://github.com/haarisyahya/haarisyahya/blob/main/Haaris%20Yahya%20-%20resume.pdf" target="_blank">experience (resume)</a>
 
@@ -93,8 +93,6 @@
 			<img src="https://img.icons8.com/color/48/null/linkedin-circled--v1.png"></a>
         <a style="margin-left: 10px;" title="GitHub"  target="_blank" href="https://github.com/haarisyahya">
 		<img src="https://img.icons8.com/ios-filled/48/null/github.png"></a>
-	<a style="margin-left: 5px;" title="Email"  target="_blank" href="mailto:haarisyahya@gmail.com?subject = Feedback&body = Message"">
-					<img src="https://img.icons8.com/color/48/null/gmail.png"></a>
 	<a style="margin-left: 5px;" title="Resume" target="_blank" href="https://github.com/haarisyahya/haarisyahya/blob/main/Haaris%20Yahya%20-%20resume.pdf">
 					<img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/null/external-resume-resume-flaticons-lineal-color-flat-icons.png"></a>
 	 
