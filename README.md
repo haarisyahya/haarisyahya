@@ -63,6 +63,7 @@
 <a href="https://www.microsoft.com/en-us/microsoft-365/powerpoint" title="Microsoft Powerpoint" target="_blank"><img src="https://img.icons8.com/color/48/null/microsoft-powerpoint-2019--v1.png" width="50" height="50"/></a>
 <a href="https://www.microsoft.com/en-us/microsoft-365/excel" title="Microsoft Excel" target="_blank"><img src="https://img.icons8.com/color/48/null/microsoft-excel-2019--v1.png" width="50" height="50"/></a>
 <a href="https://outlook.live.com/mail/0/" title="Microsoft Outlook" target="_blank"><img src="https://img.icons8.com/color/48/null/microsoft-outlook-2019--v2.png" width="50" height="50"/></a>
+<a href="https://outlook.live.com/mail/0/](https://azure.microsoft.com/en-us/products/devops" title="Azure DevOps" target="_blank"><img src="https://img.icons8.com/?size=100&id=S4wbdK79E23a&format=png&color=000000" width="50" height="50"/></a>
 
 
 
