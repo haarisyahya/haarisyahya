@@ -3,7 +3,7 @@
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&size=50&duration=3500&color=967BB6&width=700&height=70&lines=Hi!+I'm+Haaris+Yahya+%3A\))](https://git.io/typing-svg)
   
  </h2> 
-<h3 align="center">A passionate software developer from Toronto</h3>
+<h3 align="center">A passionate developer from Toronto</h3>
 
 
 ![Haaris's Profile Views](https://komarev.com/ghpvc/?username=haarisyahya&style=for-the-badge&color=brightgreen) 
