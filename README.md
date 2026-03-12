@@ -12,7 +12,7 @@
  ## 👋 About Me
 
 
-- 🧑‍💼 Industry X Developer at <a href="https://www.accenture.com/ca-en"> Accenture </a> (May 2024-now)
+- 🧑‍💼 Software Developer (Industry X) at <a href="https://www.accenture.com/ca-en"> Accenture </a> (May 2024-now)
 
 - 🧑‍💼 Software Engineer Intern at <a href="https://www.litespace.io/" target="_blank"> LiteSpace </a> (Sept 2023 - Dec 2023)
 - 🧑‍💼 Software Developer Intern at the <a href="https://www.ontario.ca/page/ministry-attorney-general" target="_blank"> Ontario Government </a> (May 2022 - Sept 2022)
