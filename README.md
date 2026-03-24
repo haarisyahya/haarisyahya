@@ -20,7 +20,7 @@
 
 - 🌱 My most recent extra curricular project was developing a <a href="https://haarisy.dev" target="_blank"> portfolio website </a> for myself.
 
-- 📫 You can reach me at my <a href="https://www.linkedin.com/in/haaris-yahya-398ba9195/" target="_blank"> LinkedIn </a>
+- 📫 You can reach me at my <a href="https://www.linkedin.com/in/haaris-y-398ba9195/" target="_blank"> LinkedIn </a>
 
 - 📄 Know about my <a href="https://github.com/haarisyahya/haarisyahya/blob/main/Haaris%20Yahya%20-%20resume.pdf" target="_blank">experience (resume)</a>
 
