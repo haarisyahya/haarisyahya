@@ -18,7 +18,7 @@
 - 🧑‍💼 Software Developer Intern at the <a href="https://www.ontario.ca/page/ministry-attorney-general" target="_blank"> Ontario Government </a> (May 2022 - Sept 2022)
 
 
-- 🌱 My most recent extra curricular project was developing a <a href="https://haarisy.dev" target="_blank"> portfolio website </a> for myself.
+- 🌱 My most recent extracurricular project was architecting and developing a <a href="https://transientradio.online" target="_blank"> genre-agnostic music platform </a> designed to bridge global sounds and local talent
 
 - 📫 You can reach me at my <a href="https://www.linkedin.com/in/haaris-y-398ba9195/" target="_blank"> LinkedIn </a>
 
