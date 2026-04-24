@@ -31,8 +31,6 @@
 ## ⚒️ Frameworks and Languages
 
 
-## 🛠️ Frameworks and Languages
-
 | | | | | | | | |
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | <a href="https://www.java.com/en/" title="Java"><img src="https://img.icons8.com/color/48/null/java-coffee-cup-logo--v1.png" width="50"/></a> | <a href="https://en.wikipedia.org/wiki/JavaScript" title="JavaScript"><img src="https://img.icons8.com/color/48/null/javascript--v1.png" width="50"/></a> | <a href="https://www.typescriptlang.org/" title="TypeScript"><img src="https://img.icons8.com/color/50/typescript.png" width="50"/></a> | <a href="https://reactjs.org/" title="React"><img src="https://img.icons8.com/plasticine/48/null/react.png" width="50"/></a> | <a href="https://nextjs.org/" title="NextJS"><img src="https://img.icons8.com/?size=100&id=MWiBjkuHeMVq&format=png&color=000000" width="50"/></a> | <a href="https://nodejs.org/en/about/" title="Node.js"><img src="https://img.icons8.com/fluency/48/null/node-js.png" width="50"/></a> | <a href="https://www.python.org/" title="Python"><img src="https://img.icons8.com/color/48/null/python--v1.png" width="50"/></a> | <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" title="C#"><img src="https://img.icons8.com/color/48/null/c-sharp-logo.png" width="50"/></a> |
