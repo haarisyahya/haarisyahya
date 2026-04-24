@@ -31,12 +31,7 @@
 ## ⚒️ Frameworks and Languages
 
 
-<a href="https://www.java.com/en/" title="Java" target="_blank"><img src="https://img.icons8.com/color/48/null/java-coffee-cup-logo--v1.png" width="50" height="50"/></a>
-<a href="https://en.wikipedia.org/wiki/JavaScript" title="JavaScript" target="_blank"><img src="https://img.icons8.com/color/48/null/javascript--v1.png" width="40" height="40"/></a>
-<a href="https://cursor.com/features" title="Cursor" target="_blank"><img src="https://img.icons8.com/?size=100&id=4gUIAQbx9oh5&format=png&color=000000" width="40" height="40"/></a>
-<a href="https://nodejs.org/en/about/" title="Node.js" target="_blank"><img src="https://img.icons8.com/fluency/48/null/node-js.png" width="50" height="50"/></a>
-<a href="https://reactjs.org/" title="React.js" target="_blank"><img src="https://img.icons8.com/plasticine/48/null/react.png" width="50" height="50"/></a>
-<a href="https://www.typescriptlang.org/" title="TypeScript" target="_blank"><img width="50" height="50" src="https://img.icons8.com/color/50/typescript.png" alt="typescript"/></a>
+<a href="https://www.java.com/en/" title="Java" target="_blank"><img src="https://img.icons8.com/color/48/null/java-coffee-cup-logo--v1.png" width="50" height="50"/></a><a href="https://en.wikipedia.org/wiki/JavaScript" title="JavaScript" target="_blank"><img src="https://img.icons8.com/color/48/null/javascript--v1.png" width="40" height="40"/></a><a href="https://cursor.com/features" title="Cursor" target="_blank"><img src="https://img.icons8.com/?size=100&id=4gUIAQbx9oh5&format=png&color=000000" width="40" height="40"/></a><a href="https://nodejs.org/en/about/" title="Node.js" target="_blank"><img src="https://img.icons8.com/fluency/48/null/node-js.png" width="50" height="50"/></a><a href="https://reactjs.org/" title="React.js" target="_blank"><img src="https://img.icons8.com/plasticine/48/null/react.png" width="50" height="50"/></a><a href="https://www.typescriptlang.org/" title="TypeScript" target="_blank"><img width="50" height="50" src="https://img.icons8.com/color/50/typescript.png" alt="typescript"/></a>
 <a href="https://nextjs.org/" title="NextJS" target="_blank"><img width="50" height="50" src="https://img.icons8.com/?size=100&id=MWiBjkuHeMVq&format=png&color=000000" alt="typescript"/></a>
 <a href="https://en.wikipedia.org/wiki/SQL" title="SQL" target="_blank"><img src="https://img.icons8.com/external-dygo-kerismaker/48/null/external-SQL-networking-dygo-kerismaker.png" width="40" height="40"/></a>
 <a href="https://www.microsoft.com/en-ca/sql-server/sql-server-downloads" title=" MS SQL Server" target="_blank"><img src="https://img.icons8.com/color/48/null/microsoft-sql-server.png" width="50" height="50"/></a>
