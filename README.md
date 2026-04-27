@@ -44,6 +44,7 @@
 <p align="center">
 	
 ![GitHub stats](https://github-readme-stats-3m26.vercel.app/api?username=haarisyahya&theme=gotham&show_icons=true&count_private=true&hide_title=true&hide_border=true)
+
 ![Top Langs](https://github-readme-stats-3m26.vercel.app/api/top-langs/?username=haarisyahya&layout=default&theme=gotham&hide=html&hide_border=true&card_width=330) 
 
 </p>
